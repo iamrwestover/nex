@@ -1,4 +1,23 @@
 /*=======================================================================
-*** PORTO_SUB STYLE SHEET***
+*** NITEX STYLE SHEET***
 ========================================================================*/
+.alternative-color .icon,
+.alternative-color .alternative-font {
+  color: #61b40b !important;
+}
 
+/*section.highlight,*/
+/*.btn-primary {*/
+  /*background-color: #61b40b !important;*/
+  /*border-color: #55a51c !important;*/
+/*}*/
+
+/*.page-top {*/
+  /*background-color: #61b40b;*/
+  /*border-bottom-color: #a3d869;*/
+  /*border-top-color: #55a51c;*/
+/*}*/
+
+/*.inverted {*/
+  /*background-color: #61b40b !important;*/
+/*}*/
